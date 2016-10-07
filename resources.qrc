@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rcc/etfsa_en.png</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mainwindow.ui</file>
+        <file>resources.qrc</file>
+        <file>sfm.pro</file>
+    </qresource>
+</RCC>
